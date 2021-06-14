@@ -1,0 +1,12 @@
+The below two compile without error
+
+1)
+package labexercise._2;
+import java.awt.*;
+class MyClass2 {}
+
+2)
+/*This is a comment*/
+package labexercise._2;
+import java.awt.*;
+class MyClass{}

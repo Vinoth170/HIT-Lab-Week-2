@@ -1,0 +1,6 @@
+2variable - variable name shouldn't starts with number
+variable2 - it's a acceptable identifier
+_whatavariable - it's a acceptable identifier
+_3_ - it's a acceptable identifier
+$anothervar - it's a acceptable identifier
+#myvar - identifier should not contain '#' symbol
