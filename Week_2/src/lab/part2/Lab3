@@ -1,0 +1,88 @@
+Part 2
+
+Introduction of Java
+--------------------
+
+1.
+2. c and c++
+3. b)Platform-independent
+
+Oops in Java
+------------
+
+8. both a & b
+
+9. 
+package pack;
+
+class FirstProg{
+	public static void main(String[] argv){
+		System.out.println("This is My First Java program");
+	}
+}
+
+10. null
+11. String
+12. b)public static void main(String arg[])
+
+Java keywords
+-------------
+
+13. i)goto
+   ii)const
+
+14. a)byte
+    b)import
+
+Operators
+---------
+
+15. Arithmetic operators
+		1. +
+		2. -
+		3. *
+		4. /
+		5. %
+		6. ++
+		7. --
+	
+	Assignment operators
+		1. +=
+		2. -=
+		3. *=
+		4. /=
+		5. %=
+		6. &=
+		7. ^=
+		8. |=
+		9. <<=
+		10. >>=
+		11. =
+		
+	Logical operators
+		1. &&
+		2. ||
+		3. !
+	
+	Bitwise operators
+		1. &
+		2. |
+		3. ^
+		
+	Comparison operators
+		1. ==
+		2. !=
+		3. <
+		4. >
+		5. >=
+		6. <=
+
+18. 4
+19. false
+20. None
+21. c=true
+    d=false
+    e=true
+    f=true
+    g=false
+22. b)20
