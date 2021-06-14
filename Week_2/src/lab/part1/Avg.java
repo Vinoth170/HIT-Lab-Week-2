@@ -1,0 +1,23 @@
+package lab.part1;
+
+public class Avg {
+	public static void main(String[] args) {
+		int n=args.length;
+		float [] x=new float[n];
+		
+		//Assign values into the array x
+		for(int i=0; i<n; i++) {
+			x[i]=Float.parseFloat(args[i]);
+		}
+		
+		float sum=0;
+		
+		//Find sum of the values in the array x
+		for (int i=0;i<n;i++)
+			sum=sum+x[i];
+		
+		//Average: avg=sum/n
+		float avg=sum/n;
+		System.out.println("Average of given numbers is "+avg);
+	}
+}
