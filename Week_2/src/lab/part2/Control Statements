@@ -1,0 +1,16 @@
+Control Statements
+
+Three types of control statements are there namely,
+1.	Sequential control statement
+2.	Recursive control statement
+3.	Conditional control statement
+
+1.Sequential control statement
+	In sequential control statement the process will execute in a sequence manner.
+	
+2.Recursive control statement
+	In this statement the set of statement execute recursively for some finite number of times.
+
+3.Conditional control statement
+	In condition statement the process will flow by checking conditions.
+	Depending on the condition the flow of the statements change.
